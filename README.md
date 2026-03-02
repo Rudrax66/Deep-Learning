@@ -7,6 +7,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Live Demo](https://deep-learning-vgvux97mkidnjrbenaosrr.streamlit.app/)
 
 **An AI-powered web application that detects brain tumors from MRI scans using a pretrained ResNet50 deep learning model.**
 
