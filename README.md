@@ -15,7 +15,7 @@
 </div>
 
 ---
-![Live Demo](https://deep-learning-vgvux97mkidnjrbenaosrr.streamlit.app/)
+Live Demo : https://deep-learning-vgvux97mkidnjrbenaosrr.streamlit.app/
 
 ## 📌 Overview
 
